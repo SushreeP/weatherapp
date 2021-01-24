@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+main {
+  height: 80vh;
+  width: 40%;
+  border: 2px solid gray;
+  border-radius: 5px;
+  margin: 10vh auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+main h1 {
+  margin: 10px auto 1rem;
+}
+
+main input {
+  margin: 1rem;
+}
+
+main h3 {
+  font-size: 5rem;
+  color: lightcoral;
+}
+
+main input {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-bottom: 1px solid darkgray;
+}
+
+main h3 {
+  margin-top: 5rem;
+}
